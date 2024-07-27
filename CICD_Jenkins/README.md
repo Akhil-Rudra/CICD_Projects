@@ -10,12 +10,12 @@ Security groups act as virtual firewalls that control the traffic allowed to rea
 <img width="700" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/71075fc1-4d9f-4986-b74e-7756fefad94c">
 
 The EC2 Instances dashboard from the AWS Management Console, showing a list of EC2 instances and their details.
-The instances are:
-Master: Coordinates tasks and manages other instances
-SonarQube: Used for continuous inspection of code quality
-Nexus: Repository manager for storing artifacts
-Slave1: Executes build tasks as part of the Jenkins distributed build process
-Slave2: Another instance for executing build tasks
-Jenkins: Automates the CI/CD pipeline
-<img width="700" height="300" alt="Picture2" src="https://github.com/user-attachments/assets/f805c8ca-88ca-418d-8054-93bab37840ce">
 
+The instances are:
+Master: Coordinates tasks and manages other instances <br>
+SonarQube: Used for continuous inspection of code quality <br>
+Nexus: Repository manager for storing artifacts <br>
+Slave1: Executes build tasks as part of the Jenkins distributed build process <br>
+Slave2: Another instance for executing build tasks <br>
+Jenkins: Automates the CI/CD pipeline <br>
+<img width="700" height="200" alt="Picture2" src="https://github.com/user-attachments/assets/f805c8ca-88ca-418d-8054-93bab37840ce">
