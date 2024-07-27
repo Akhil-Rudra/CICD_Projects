@@ -7,4 +7,4 @@ https://github.com/Akhil-Rudra/CICD_Projects/blob/main/CICD_Jenkins/Ultimate%20C
 
 The Inbound Rules tab of a security group configuration in the AWS Management Console. 
 Security groups act as virtual firewalls that control the traffic allowed to reach one or more AWS resources, such as EC2 instances.
-<img width="900" alt="Picture1" src="https://github.com/user-attachments/assets/71075fc1-4d9f-4986-b74e-7756fefad94c">
+<img width="900" height="200" alt="Picture1" src="https://github.com/user-attachments/assets/71075fc1-4d9f-4986-b74e-7756fefad94c">
