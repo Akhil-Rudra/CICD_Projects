@@ -8,8 +8,7 @@ The Inbound Rules tab of a security group configuration in the AWS Management Co
 Security groups act as virtual firewalls that control the traffic allowed to reach one or more AWS resources, such as EC2 instances.
 <img width="700" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/71075fc1-4d9f-4986-b74e-7756fefad94c">
 
-The EC2 Instances d<img width="468" alt="Picture5" src="https://github.com/user-attachments/assets/cb6ac373-a268-4348-8a67-aa9749d138db">
-ashboard from the AWS Management Console, showing a list of EC2 instances and their details.
+The EC2 Instances dashboard from the AWS Management Console, showing a list of EC2 instances and their details.
 
 The instances are:<br>
 Master: Coordinates tasks and manages other instances <br>
